@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Madushanka</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka.</h3>
+<h3 align="center">A passionate full-stack web developer from Sri Lanka.</h3>
 
 - 🌱 I’m currently learning **ASP & ASP.Net, PHP, Flutter**
 
