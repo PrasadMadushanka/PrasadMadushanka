@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Madushanka</h1>
 <h3 align="center">A passionate full-stack web developer from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **ASP & ASP.Net, PHP, Flutter**
+- 🌱 I’m currently learning **Dart, Flutter, PHP**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/prasad-madhushanka-2143b6241](www.linkedin.com/in/prasad-madhushanka-2143b6241)
 
