@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, PHP**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/prasad-madhushanka-2143b6241](www.linkedin.com/in/prasad-madhushanka-2143b6241)
+- 👨‍💻 All of my projects are available at [https://github.com/PrasadMadushanka]((https://github.com/PrasadMadushanka))
 
-- 📝 I regularly write articles on [www.linkedin.com/in/prasad-madhushanka-2143b6241](www.linkedin.com/in/prasad-madhushanka-2143b6241)
+- 📝 I regularly write articles on [www.linkedin.com/Prasad_Madushanka](www.linkedin.com/in/prasad-madhushanka-60a707288)
 
 - 📫 How to reach me **lahirumadushankap2000@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/prasad-madhushanka-2143b6241](www.linkedin.com/in/prasad-madhushanka-2143b6241)
+- 📄 Know about my experiences [www.linkedin.com/Prasad_Madushanka](www.linkedin.com/in/prasad-madhushanka-60a707288)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
