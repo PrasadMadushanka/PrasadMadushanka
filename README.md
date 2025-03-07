@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Madushanka</h1>
 <h3 align="center">A passionate mobile application developer from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **Dart, Flutter, PHP**
+- 🌱 I’m currently learning **Dart, Flutter, PHP, React**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/PrasadMadushanka](https://github.com/PrasadMadushanka).
 
